@@ -13,5 +13,4 @@ do
          else 
                  echo "$N Odd"
                  N=$((N+1))
-         fi
 done 
